@@ -4,6 +4,7 @@ email: tbc
 description: > # this means to ignore newlines until "baseurl:"
   Fiddle playing beginning programmer
 # social links
+theme: minima
 twitter_username: dna
 github_username:  jaydee323
 theme : minima
